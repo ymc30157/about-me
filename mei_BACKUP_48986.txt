@@ -1,0 +1,7 @@
+Mei Chiang
+* Born in: Taiwan
+<<<<<<< HEAD
+* fav color: No blue
+=======
+* fav color: Red--
+>>>>>>> red
