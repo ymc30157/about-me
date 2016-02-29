@@ -1,6 +1,3 @@
 Mei Chiang
 * Born in: Taiwan
-<<<<<<< HEAD
-=======
 * fav color: rainbow
->>>>>>> add-fav-color
